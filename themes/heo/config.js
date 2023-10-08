@@ -52,8 +52,8 @@ const CONFIG = {
       title_1: 'AgentGPT',
       img_1: '/images/heo/agentGPT_logo.png',
       color_1: '#57b6e6',
-      title_2: 'Photoshop',
-      img_2: '/images/heo/2023e4058a91608ea41751c4f102b131f267075902.webp',
+      title_2: 'HuggingGPT',
+      img_2: '/images/heo/huggingGPT_logo.png',
       color_2: '#4082c3'
     },
     {
