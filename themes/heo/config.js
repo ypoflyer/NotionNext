@@ -42,7 +42,7 @@ const CONFIG = {
   GROUP_ICONS: [
     {
       title_1: 'CAMEL',
-      img_1: '/images/heo/25uVBZEFtfAcuj5POaAT3.webp',
+      img_1: '/images/heo/camel_logo.png',
       color_1: '#989bf8',
       title_2: 'Sketch',
       img_2: '/images/heo/2023e0ded7b724a39f12d59c3dc8fbdc7cbe074202.webp',
