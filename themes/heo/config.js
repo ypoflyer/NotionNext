@@ -11,15 +11,15 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HERO_TITLE_1: '分享AI智能体',
-  HERO_TITLE_2: '',
+  HERO_TITLE_2: '与思维认知',
   HERO_TITLE_3: 'cragent.xyz',
   HERO_TITLE_4: '新版上线',
   HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HERO_TITLE_LINK: 'https://tangly1024.com',
+  HERO_TITLE_LINK: 'https://cragent.xyz',
 
   // 英雄区显示三个置顶分类
-  HERO_CATEGORY_1: { title: '行业动态', url: '/tag/行业动态' },
-  HERO_CATEGORY_2: { title: 'All Agents', url: '/tag/AllAgents' },
+  HERO_CATEGORY_1: { title: 'AI智能体项目', url: '/tag/AI智能体项目' },
+  HERO_CATEGORY_2: { title: '思维认知', url: '/tag/思维认知' },
   HERO_CATEGORY_3: { title: '我的研究', url: '/tag/我的研究' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
@@ -30,11 +30,9 @@ const CONFIG = {
   INFOCARD_GREETINGS: [
     '你好！我是',
     '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
     '🏃 脚踏实地行动派',
     '🏠 智能家居小能手',
     '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
   ],
   INFO_CARD_URL: 'https://github.com/tangly1024/NotionNext', // 个人资料底部按钮链接
 
