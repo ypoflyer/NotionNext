@@ -97,7 +97,7 @@ export default function PostHeader({ post, siteInfo }) {
 
                 </div>
 
-                <WavesArea />
+                // <WavesArea />
 
             </div>
         </div>
